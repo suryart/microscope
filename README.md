@@ -1,6 +1,6 @@
 # Microscope
 
-Microsscope is the first application created using (meteor)[http://docs.meteor.com/] for learning the dynamics meteor framework and its usage.
+Microsscope is the first application created using [meteor](http://docs.meteor.com/) for learning the dynamics meteor framework and its usage.
 
 This is application is not meant for any production project or so.
 
